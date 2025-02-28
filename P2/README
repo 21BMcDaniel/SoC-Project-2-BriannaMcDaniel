@@ -1,0 +1,30 @@
+These are the main files contained within my project.
+The all Folders within this are all the files within my P2 project folder
+
+NOTE: File Folder names with a * were a bit too big to include so there may be some zips within zips to fit everything. 
+      This can also be explained using a README file within those two folders
+P2
+  |
+  clk_wiz_0
+  hdmi_tx_1.0
+  *ip_repo
+          |
+          Important .VHD code to view changes made to pong ball, paddle control files, and pong_top files
+  P3_ws_A4
+          |
+          Demo-> src -> helloworld.c (the .c pong control code)
+  *proj_dir (Main Project where top level design was made)
+          |
+          P3_wrapper_A4.xsa
+  proj_dir_P2 
+          |
+          IP_Folder (Led_ctrl and RSA Cypher IP component !!!Not the component outside of this folder)
+          apb_led_ctl.vhd
+          vhdl
+              |
+              rsacypher.vhd
+              modmult.vhd
+              led_ctrl.vhd
+  proj_dir_P3 (Pong_Top IP Component folder)
+  RD_hdmi_ip2020
+  
