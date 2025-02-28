@@ -5,6 +5,7 @@ NOTE: File Folder names with a * were a bit too big to include so there may be s
       This can also be explained using a README file within those two folders
 P2
   |
+  vitis_ws (For part 1 workspace to get hello world outputting on the serial output)
   clk_wiz_0
   hdmi_tx_1.0
   *ip_repo
