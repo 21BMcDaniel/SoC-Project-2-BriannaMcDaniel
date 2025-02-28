@@ -1,0 +1,13 @@
+This README outlines the file make up of the top level design. These files and folders where extremely large and not size coompliant with
+github so i had to be creative I think themain thing is my constraint file and the P3_wrapper_A4.wsa file.
+
+proj_dir
+        |
+        project_2....
+        .
+        .
+        .
+        axiTest2.c
+        P3_wrapper_A4
+        project_2.xpr
+        UrbanaModified_axi.xdc
