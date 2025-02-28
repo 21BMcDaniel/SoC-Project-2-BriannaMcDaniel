@@ -1,0 +1,22 @@
+This folder contains the IP Repo provided by the given files in he canvas. The following explains the location of important files...
+
+ip_repo
+      |
+      edit_myip_pong2_v1_0... folders
+      .
+      .
+      .
+      myip_pong2_1_0
+      sim
+      src (contains important vhdl files)
+          |
+          Pong_Ball_Ctrl.vhd
+          Pong_Paddle_Ctrl.vhd
+          Pong_Pkg.vhd
+          Pong_Top2.vhd
+          design_6_ooc.xdc
+          design_6.vhd
+          etc...
+      xgui
+      component.xml
+      edit_my_ip_pong2_v1_0.xpr
